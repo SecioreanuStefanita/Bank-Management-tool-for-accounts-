@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578509083 source:c:\users\steph\desktop\proiect3_secioreanu_stefanita_problema8\main.cpp
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+
